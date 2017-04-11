@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dungnv52.github.io" resolutions="1x" timestamp="1491878906803">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="3969282408" ref="sanpham:gioithieu:index"/>
+    <file name="sanpham.css" crc="4199585398" ref="sanpham"/>
+    <file name="gioithieu.css" crc="4081851108" ref="gioithieu"/>
+    <file name="index.css" crc="4253964108" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:sanpham:gioithieu"/>
+    <file name="museutils.js" crc="531812214" ref="index:sanpham:gioithieu"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sanpham:gioithieu"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:sanpham:gioithieu"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:sanpham:gioithieu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sanpham:gioithieu"/>
+  </folder>
+  <folder name="images">
+    <file name="menu_sp1to357x346.png" crc="468280071" seo="true" ref="index"/>
+    <file name="menu_sp1to357x335.png" crc="468280071" seo="true" ref="index"/>
+    <file name="menu_sp1to.png" crc="468280071" seo="true" ref="sanpham:gioithieu"/>
+  </folder>
+  <file name="index.html" crc="4086226502" seo="true" mt="1491878488687" redirect="true"/>
+  <file name="sanpham.html" crc="4040458083" seo="true" mt="1491878476403" redirect="true"/>
+  <file name="gioithieu.html" crc="182361229" seo="true" mt="1491878834060" redirect="true"/>
+</manifest>
