@@ -1,0 +1,66 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="abc.com" resolutions="1x" timestamp="1493057581130">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="345835050" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dscf1732.jpg" crc="3873241256" ref="index"/>
+    <file name="u128-4.png" crc="421793958" ref="index"/>
+    <file name="u132-4.png" crc="3967937829" ref="index"/>
+    <file name="u136-4.png" crc="3875983374" ref="index"/>
+    <file name="u175-4.png" crc="165126807" ref="index"/>
+    <file name="u167-4.png" crc="58651212" ref="index"/>
+    <file name="33350478843_7c6a47d7b1_o.jpg" crc="291636030" seo="true" ref="index"/>
+    <file name="12.jpg" crc="397905827" seo="true" ref="index"/>
+    <file name="u260-4.png" crc="4179627815" ref="index"/>
+    <file name="u263-5.png" crc="4100932629" ref="index"/>
+    <file name="u277-4.png" crc="3930695401" ref="index"/>
+    <file name="u286-5.png" crc="135957331" ref="index"/>
+    <file name="u280-4.png" crc="157911618" ref="index"/>
+    <file name="u289-4.png" crc="110033101" ref="index"/>
+    <file name="u283-4.png" crc="265130286" ref="index"/>
+    <file name="2.jpg" crc="506296823" ref="index"/>
+    <file name="file0454.jpg" crc="3973456434" seo="true" ref="index"/>
+    <file name="u486-4.png" crc="3965046060" ref="index"/>
+    <file name="u492-4.png" crc="3796676840" ref="index"/>
+    <file name="u498-4.png" crc="387608397" ref="index"/>
+    <file name="u501-4.png" crc="3847657173" ref="index"/>
+    <file name="u611-4.png" crc="390093647" ref="index"/>
+    <file name="u615-4.png" crc="270833515" ref="index"/>
+    <file name="u609-4.png" crc="509771130" ref="index"/>
+    <file name="u614-4.png" crc="4085020329" ref="index"/>
+    <file name="dscf1379-2.jpg" crc="48312943" ref="index"/>
+    <file name="u667-4.png" crc="205835836" ref="index"/>
+    <file name="u670-11.png" crc="118424034" ref="index"/>
+    <file name="u677-4.png" crc="275592136" ref="index"/>
+    <file name="decol2-02 copy.jpg" crc="178161666" seo="true" ref="index"/>
+    <file name="drill.jpg" crc="3841577956" seo="true" ref="index"/>
+    <file name="um-03.jpg" crc="99768915" seo="true" ref="index"/>
+    <file name="9-01 copy.jpg" crc="17312350" seo="true" ref="index"/>
+    <file name="hb-01.jpg" crc="3867591501" seo="true" ref="index"/>
+    <file name="file0380.jpg" crc="18526884" seo="true" ref="index"/>
+    <file name="coverback.jpg" crc="151629981" ref="index"/>
+    <file name="logob.svg" crc="3844684769" seo="true" ref="index"/>
+    <file name="logob_poster_.png" crc="3825293629" ref="index"/>
+    <file name="21728230785_e4b0e5c63c_o.jpg" crc="327548640" seo="true" ref="index"/>
+    <file name="gas.jpg" crc="3836664048" seo="true" ref="index"/>
+    <file name="file0454260x260.jpg" crc="176163341" seo="true" ref="index"/>
+    <file name="untitled-1.jpg" crc="483207682" ref="index"/>
+    <file name="6.jpg" crc="468884499" ref="index"/>
+    <file name="15.jpg" crc="3875705460" ref="index"/>
+    <file name="astronaut.jpg" crc="433373840" seo="true" ref="index"/>
+    <file name="vhs-01.jpg" crc="58582773" seo="true" ref="index"/>
+    <file name="23.jpg" crc="4140400303" seo="true" ref="index"/>
+    <file name="untitled-12.jpg" crc="3972383308" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4198500193" seo="true" mt="1493057578848" redirect="true"/>
+</manifest>
