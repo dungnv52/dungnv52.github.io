@@ -2,103 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://abc.com/index.html</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/12.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/file0454.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/decol2-02%20copy.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://abc.com/images/drill.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://abc.com/images/um-03.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://abc.com/images/9-01%20copy.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/hb-01.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/33350478843_7c6a47d7b1_o.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/logob.svg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/21728230785_e4b0e5c63c_o.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <loc>http://abc.com/images/12.jpg</loc>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://abc.com/images/gas.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/file0454260x260.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://abc.com/images/astronaut.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://abc.com/images/vhs-01.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/23.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abc.com/images/file0380.jpg</loc>
-    <lastmod>2017-04-25</lastmod>
+    <loc>http://abc.com/images/hb-01.jpg</loc>
+    <lastmod>2017-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
