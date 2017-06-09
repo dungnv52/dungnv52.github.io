@@ -4,29 +4,25 @@
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2017.0.1.363"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Redirect to phone/tablet as necessary
-(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
-0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
-0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/checkout.html");
-
-// Update the 'nojs'/'js' class on the html node
+   // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "jquery.scrolleffects.js", "require.js", "checkout.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "checkout.css"], "outOfDate":[]};
 </script>
   
-  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.gg.com/phone/checkout.html"/>
   <title>Checkout</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=288478064"/>
-  <link rel="stylesheet" type="text/css" href="css/checkout.css?crc=462107406" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=118710172"/>
+  <link rel="stylesheet" type="text/css" href="css/checkout.css?crc=4273786946" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=463500881"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_checkout.css?crc=3938316404" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -39,184 +35,368 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- column -->
-   <div class="position_content" id="page_position_content">
-    <div class="browser_width colelem" id="u5833-bw">
-     <div id="u5833"><!-- group -->
-      <div class="clearfix" id="u5833_align_to_page">
-       <div class="clearfix grpelem" id="pu5845-4"><!-- group -->
-        <div class="clearfix grpelem" id="u5845-4"><!-- content -->
-         <p>Hampton Road Southampton, NY 11968</p>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="1171"><!-- responsive breakpoint node -->
+   <div class="clearfix" id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="browser_width colelem" id="u5833-bw">
+      <div id="u5833"><!-- group -->
+       <div class="clearfix" id="u5833_align_to_page">
+        <div class="clearfix grpelem" id="pu5845-4"><!-- group -->
+         <div class="clearfix grpelem" id="u5845-4"><!-- content -->
+          <p>Hampton Road Southampton, NY 11968</p>
+         </div>
+         <div class="clearfix grpelem" id="u5848-4"><!-- content -->
+          <p>0 800 123 456 8830</p>
+         </div>
         </div>
-        <div class="clearfix grpelem" id="u5848-4"><!-- content -->
+        <div class="clearfix grpelem" id="u6900-4"><!-- content -->
+         <p>&nbsp;&nbsp; &nbsp;&nbsp; </p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="browser_width mse_pre_init" id="u6636-bw">
+      <div id="u6636"><!-- simple frame --></div>
+     </div>
+     <a class="nonblock nontext clip_frame mse_pre_init" id="u6644" href="index.html"><!-- svg --><img class="svg temp_no_img_src" id="u6639" data-orig-src="images/lg.svg?crc=158730653" width="130" height="47" alt="" data-mu-svgfallback="images/lg_poster_.png?crc=4055037045" src="images/blank.gif?crc=4208392903"/></a>
+     <nav class="MenuBar clearfix mse_pre_init" id="menuu6423"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u6459"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6460" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6461-4"><!-- content --><p>Home</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u6445"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6446" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6447-4"><!-- content --><p>About us</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u6466"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6467" href="menu.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6470-4"><!-- content --><p>Menu</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u6452"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6453" href="gallery.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6454-4"><!-- content --><p>Gallery</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u6431"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6432" href="articles.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6433-4"><!-- content --><p>Articles</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u6424"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6425" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6428-4"><!-- content --><p>Contact</p></div></a>
+      </div>
+     </nav>
+     <div class="clearfix colelem" id="u29322-4"><!-- content -->
+      <p>Your cart</p>
+     </div>
+     <form class="form-grp clearfix colelem" id="widgetu12424" method="post" enctype="multipart/form-data" action="scripts/form-u12424.php"><!-- none box -->
+      <div class="fld-grp clearfix grpelem" id="widgetu12433" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12434-4" for="widgetu12433_input"><!-- content --><span class="actAsPara">First name</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12435-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu12433_input" name="custom_U12433" tabindex="1"/></span>
+       <div class="fld-message clearfix grpelem" id="u12436-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu12429" data-required="true" data-type="email"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12430-4" for="widgetu12429_input"><!-- content --><span class="actAsPara">Last name</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12432-3"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu12429_input" name="Email" tabindex="2"/></span>
+       <div class="fld-message clearfix grpelem" id="u12431-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu12441" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12442-4" for="widgetu12441_input"><!-- content --><span class="actAsPara">Email</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12443-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu12441_input" name="custom_U12441" tabindex="3"/></span>
+       <div class="fld-message clearfix grpelem" id="u12444-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="clearfix grpelem" id="u12428-4"><!-- content -->
+       <p>Submitting Form...</p>
+      </div>
+      <div class="clearfix grpelem" id="u12426-4"><!-- content -->
+       <p>The server encountered an error.</p>
+      </div>
+      <div class="clearfix grpelem" id="u12427-3"><!-- content -->
+       <p>&nbsp;</p>
+      </div>
+      <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u12425-4" type="submit" value="Done!" tabindex="8"><!-- content -->
+       <div style="margin-top:-11px;height:11px;">
+        <p>Done!</p>
+       </div>
+      </button>
+      <div class="fld-grp clearfix grpelem" id="widgetu12509" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12510-4" for="widgetu12509_input"><!-- content --><span class="actAsPara">Address</span></label>
+       <span class="fld-textarea actAsDiv clearfix grpelem" id="u12512-3"><!-- content --><textarea class="wrapped-input" id="widgetu12509_input" name="custom_U12509" tabindex="5"></textarea></span>
+       <div class="fld-message clearfix grpelem" id="u12511-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu12521" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12522-4" for="widgetu12521_input"><!-- content --><span class="actAsPara">City</span></label>
+       <span class="fld-textarea actAsDiv clearfix grpelem" id="u12524-3"><!-- content --><textarea class="wrapped-input" id="widgetu12521_input" name="custom_U12521" tabindex="6"></textarea></span>
+       <div class="fld-message clearfix grpelem" id="u12523-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu12533" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12534-4" for="widgetu12533_input"><!-- content --><span class="actAsPara">Country</span></label>
+       <span class="fld-textarea actAsDiv clearfix grpelem" id="u12536-3"><!-- content --><textarea class="wrapped-input" id="widgetu12533_input" name="custom_U12533" tabindex="7"></textarea></span>
+       <div class="fld-message clearfix grpelem" id="u12535-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu12545" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u12546-4" for="widgetu12545_input"><!-- content --><span class="actAsPara">Phone</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12548-3"><!-- content --><input class="wrapped-input" type="text" id="widgetu12545_input" name="custom_U12545" tabindex="4"/></span>
+       <div class="fld-message clearfix grpelem" id="u12547-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+     </form>
+     <div class="rounded-corners clearfix colelem" id="u12557"><!-- column -->
+      <div class="position_content" id="u12557_position_content">
+       <div class="clearfix colelem" id="u12569-4"><!-- content -->
+        <p>Order #1235 1</p>
+       </div>
+       <div class="colelem" id="u12572"><!-- simple frame --></div>
+       <div class="clearfix colelem" id="pu12560-11"><!-- group -->
+        <div class="clearfix grpelem" id="u12560-11"><!-- content -->
+         <p id="u12560">&nbsp;</p>
+         <p id="u12560-3">Subtotal</p>
+         <p id="u12560-5">Tax</p>
+         <p id="u12560-7">Shipping</p>
+         <p id="u12560-9">Order Total</p>
+        </div>
+        <div class="clearfix grpelem" id="u12566-11"><!-- content -->
+         <p id="u12566">&nbsp;</p>
+         <p id="u12566-3">$100</p>
+         <p id="u12566-5">$0</p>
+         <p id="u12566-7">0$</p>
+         <p id="u12566-9">$100</p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="verticalspacer" data-offset-top="847" data-content-above-spacer="847" data-content-below-spacer="391"></div>
+     <div class="browser_width colelem" id="u536-bw">
+      <div id="u536"><!-- group -->
+       <div class="clearfix" id="u536_align_to_page">
+        <div class="clearfix grpelem" id="pu567-4"><!-- column -->
+         <div class="clearfix colelem" id="u567-4"><!-- content -->
+          <p>Contact us</p>
+         </div>
+         <div class="clearfix colelem" id="u542-10"><!-- content -->
+          <p>0 800 123 456 88</p>
+          <p>30 Hampton Road Southampton, NY 11968</p>
+          <p>info@baguetto.com</p>
+          <p>www.baguetto.com</p>
+         </div>
+        </div>
+        <div class="clearfix grpelem" id="pu570-4"><!-- column -->
+         <div class="clearfix colelem" id="u570-4"><!-- content -->
+          <p>Opening hours</p>
+         </div>
+         <div class="clearfix colelem" id="u545-10"><!-- content -->
+          <p id="u545-2">Monday - Saturday</p>
+          <p id="u545-4">8:00 - 22:00</p>
+          <p id="u545-6">Sunday</p>
+          <p id="u545-8">8:00 - 20:00</p>
+         </div>
+        </div>
+        <div class="clearfix grpelem" id="pu551-4"><!-- column -->
+         <div class="clearfix colelem" id="u551-4"><!-- content -->
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+         </div>
+         <a class="nonblock nontext clearfix colelem" id="u554-4" href="http://#"><!-- content --><p>&nbsp; &nbsp; </p></a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="clip_frame mse_pre_init" id="u6847"><!-- svg -->
+      <img class="svg temp_no_img_src" id="u6848" data-orig-src="images/lg.svg?crc=158730653" width="164" height="60" alt="" data-mu-svgfallback="images/lg_poster_.png?crc=4055037045" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="browser_width colelem" id="u5827-bw">
+      <div id="u5827"><!-- group -->
+       <div class="clearfix" id="u5827_align_to_page">
+        <div class="clearfix grpelem" id="u5830-4"><!-- content -->
+         <p>2017 All rights reserved. Designed by Hopeless Team.</p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_1170" data-max-width="1170"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="browser_width colelem" id="u33482-bw">
+      <div id="u33482"><!-- column -->
+       <div class="clearfix" id="u33482_align_to_page">
+        <div class="clearfix colelem" id="u33486-4"><!-- content -->
          <p>0 800 123 456 8830</p>
         </div>
-       </div>
-       <div class="clearfix grpelem" id="u6900-4"><!-- content -->
-        <p>&nbsp;&nbsp; &nbsp;&nbsp; </p>
-       </div>
-      </div>
-     </div>
-    </div>
-    <div class="browser_width mse_pre_init" id="u6636-bw">
-     <div id="u6636"><!-- simple frame --></div>
-    </div>
-    <a class="nonblock nontext clip_frame mse_pre_init" id="u6644" href="index.html"><!-- svg --><img class="svg" id="u6639" src="images/lg.svg?crc=158730653" width="130" height="47" alt="" data-mu-svgfallback="images/lg_poster_.png?crc=4055037045"/></a>
-    <nav class="MenuBar clearfix mse_pre_init" id="menuu6423"><!-- horizontal box -->
-     <div class="MenuItemContainer clearfix grpelem" id="u6459"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6460" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6461-4"><!-- content --><p>Home</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u6445"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6446" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6447-4"><!-- content --><p>About us</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u6466"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6467" href="menu.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6470-4"><!-- content --><p>Menu</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u6452"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6453" href="gallery.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6454-4"><!-- content --><p>Gallery</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u6431"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6432" href="articles.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6433-4"><!-- content --><p>Articles</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u6424"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u6425" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u6428-4"><!-- content --><p>Contact</p></div></a>
-     </div>
-    </nav>
-    <div class="clearfix colelem" id="u29322-4"><!-- content -->
-     <p>Your cart</p>
-    </div>
-    <form class="form-grp clearfix colelem" id="widgetu12424" method="post" enctype="multipart/form-data" action="scripts/form-u12424.php"><!-- none box -->
-     <div class="fld-grp clearfix grpelem" id="widgetu12433" data-required="true"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12434-4" for="widgetu12433_input"><!-- content --><span class="actAsPara">First name</span></label>
-      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12435-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu12433_input" name="custom_U12433" tabindex="1"/></span>
-      <div class="fld-message clearfix grpelem" id="u12436-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-     <div class="fld-grp clearfix grpelem" id="widgetu12429" data-required="true" data-type="email"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12430-4" for="widgetu12429_input"><!-- content --><span class="actAsPara">Last name</span></label>
-      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12432-3"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu12429_input" name="Email" tabindex="2"/></span>
-      <div class="fld-message clearfix grpelem" id="u12431-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-     <div class="fld-grp clearfix grpelem" id="widgetu12441" data-required="true"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12442-4" for="widgetu12441_input"><!-- content --><span class="actAsPara">Email</span></label>
-      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12443-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu12441_input" name="custom_U12441" tabindex="3"/></span>
-      <div class="fld-message clearfix grpelem" id="u12444-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-     <div class="clearfix grpelem" id="u12428-4"><!-- content -->
-      <p>Submitting Form...</p>
-     </div>
-     <div class="clearfix grpelem" id="u12426-4"><!-- content -->
-      <p>The server encountered an error.</p>
-     </div>
-     <div class="clearfix grpelem" id="u12427-3"><!-- content -->
-      <p>&nbsp;</p>
-     </div>
-     <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u12425-4" type="submit" value="Done!" tabindex="8"><!-- content -->
-      <div style="margin-top:-11px;height:11px;">
-       <p>Done!</p>
-      </div>
-     </button>
-     <div class="fld-grp clearfix grpelem" id="widgetu12509" data-required="true"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12510-4" for="widgetu12509_input"><!-- content --><span class="actAsPara">Address</span></label>
-      <span class="fld-textarea actAsDiv clearfix grpelem" id="u12512-3"><!-- content --><textarea class="wrapped-input" id="widgetu12509_input" name="custom_U12509" tabindex="5"></textarea></span>
-      <div class="fld-message clearfix grpelem" id="u12511-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-     <div class="fld-grp clearfix grpelem" id="widgetu12521" data-required="true"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12522-4" for="widgetu12521_input"><!-- content --><span class="actAsPara">City</span></label>
-      <span class="fld-textarea actAsDiv clearfix grpelem" id="u12524-3"><!-- content --><textarea class="wrapped-input" id="widgetu12521_input" name="custom_U12521" tabindex="6"></textarea></span>
-      <div class="fld-message clearfix grpelem" id="u12523-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-     <div class="fld-grp clearfix grpelem" id="widgetu12533" data-required="true"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12534-4" for="widgetu12533_input"><!-- content --><span class="actAsPara">Country</span></label>
-      <span class="fld-textarea actAsDiv clearfix grpelem" id="u12536-3"><!-- content --><textarea class="wrapped-input" id="widgetu12533_input" name="custom_U12533" tabindex="7"></textarea></span>
-      <div class="fld-message clearfix grpelem" id="u12535-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-     <div class="fld-grp clearfix grpelem" id="widgetu12545" data-required="true"><!-- none box -->
-      <label class="fld-label actAsDiv clearfix grpelem" id="u12546-4" for="widgetu12545_input"><!-- content --><span class="actAsPara">Phone</span></label>
-      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u12548-3"><!-- content --><input class="wrapped-input" type="text" id="widgetu12545_input" name="custom_U12545" tabindex="4"/></span>
-      <div class="fld-message clearfix grpelem" id="u12547-4"><!-- content -->
-       <p>Required</p>
-      </div>
-     </div>
-    </form>
-    <div class="rounded-corners clearfix colelem" id="u12557"><!-- column -->
-     <div class="position_content" id="u12557_position_content">
-      <div class="clearfix colelem" id="u12569-4"><!-- content -->
-       <p>Order #1235 1</p>
-      </div>
-      <div class="colelem" id="u12572"><!-- simple frame --></div>
-      <div class="clearfix colelem" id="pu12560-11"><!-- group -->
-       <div class="clearfix grpelem" id="u12560-11"><!-- content -->
-        <p id="u12560">&nbsp;</p>
-        <p id="u12560-3">Subtotal</p>
-        <p id="u12560-5">Tax</p>
-        <p id="u12560-7">Shipping</p>
-        <p id="u12560-9">Order Total</p>
-       </div>
-       <div class="clearfix grpelem" id="u12566-11"><!-- content -->
-        <p id="u12566">&nbsp;</p>
-        <p id="u12566-3">$100</p>
-        <p id="u12566-5">$0</p>
-        <p id="u12566-7">0$</p>
-        <p id="u12566-9">$100</p>
-       </div>
-      </div>
-     </div>
-    </div>
-    <div class="verticalspacer" data-offset-top="863" data-content-above-spacer="847" data-content-below-spacer="391"></div>
-    <div class="browser_width colelem" id="u536-bw">
-     <div id="u536"><!-- group -->
-      <div class="clearfix" id="u536_align_to_page">
-       <div class="clearfix grpelem" id="pu567-4"><!-- column -->
-        <div class="clearfix colelem" id="u567-4"><!-- content -->
-         <p>Contact us</p>
+        <div class="clearfix colelem" id="u33484-4"><!-- content -->
+         <p>Hampton Road Southampton, NY 11968</p>
         </div>
-        <div class="clearfix colelem" id="u542-10"><!-- content -->
-         <p>0 800 123 456 88</p>
-         <p>30 Hampton Road Southampton, NY 11968</p>
-         <p>info@baguetto.com</p>
-         <p>www.baguetto.com</p>
+        <div class="clearfix colelem" id="u33485-4"><!-- content -->
+         <p>&nbsp;&nbsp; &nbsp;&nbsp; </p>
         </div>
        </div>
-       <div class="clearfix grpelem" id="pu570-4"><!-- column -->
-        <div class="clearfix colelem" id="u570-4"><!-- content -->
-         <p>Opening hours</p>
+      </div>
+     </div>
+     <div class="browser_width mse_pre_init" id="u33487-bw">
+      <div id="u33487"><!-- simple frame --></div>
+     </div>
+     <a class="nonblock nontext clip_frame mse_pre_init" id="u33531" href="index.html"><!-- svg --><img class="svg temp_no_img_src" id="u33532" data-orig-src="images/lg.svg?crc=158730653" width="130" height="47" alt="" data-mu-svgfallback="images/lg_poster_.png?crc=4055037045" src="images/blank.gif?crc=4208392903"/></a>
+     <nav class="MenuBar clearfix mse_pre_init" id="menuu33488"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u33496"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u33497" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u33499-4"><!-- content --><p>Home</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u33510"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u33513" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u33515-4"><!-- content --><p>About us</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u33517"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u33520" href="menu.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u33521-4"><!-- content --><p>Menu</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u33489"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u33490" href="gallery.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u33491-4"><!-- content --><p>Gallery</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u33524"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u33527" href="articles.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u33530-4"><!-- content --><p>Articles</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u33503"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u33504" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u33505-4"><!-- content --><p>Contact</p></div></a>
+      </div>
+     </nav>
+     <div class="clearfix colelem" id="u41113-4"><!-- content -->
+      <p>Your cart</p>
+     </div>
+     <div class="rounded-corners clearfix colelem" id="u41108"><!-- column -->
+      <div class="position_content" id="u41108_position_content">
+       <div class="clearfix colelem" id="u41111-4"><!-- content -->
+        <p>Order #1235 1</p>
+       </div>
+       <div class="colelem" id="u41112"><!-- simple frame --></div>
+       <div class="clearfix colelem" id="pu41109-11"><!-- group -->
+        <div class="clearfix grpelem" id="u41109-11"><!-- content -->
+         <p id="u41109">&nbsp;</p>
+         <p id="u41109-3">Subtotal</p>
+         <p id="u41109-5">Tax</p>
+         <p id="u41109-7">Shipping</p>
+         <p id="u41109-9">Order Total</p>
         </div>
-        <div class="clearfix colelem" id="u545-10"><!-- content -->
-         <p id="u545-2">Monday - Saturday</p>
-         <p id="u545-4">8:00 - 22:00</p>
-         <p id="u545-6">Sunday</p>
-         <p id="u545-8">8:00 - 20:00</p>
+        <div class="clearfix grpelem" id="u41110-11"><!-- content -->
+         <p id="u41110">&nbsp;</p>
+         <p id="u41110-3">$100</p>
+         <p id="u41110-5">$0</p>
+         <p id="u41110-7">0$</p>
+         <p id="u41110-9">$100</p>
         </div>
        </div>
-       <div class="clearfix grpelem" id="pu551-4"><!-- column -->
-        <div class="clearfix colelem" id="u551-4"><!-- content -->
+      </div>
+     </div>
+     <form class="form-grp clearfix colelem" id="widgetu41075" method="post" enctype="multipart/form-data" action="scripts/form-u41075.php"><!-- none box -->
+      <div class="fld-grp clearfix grpelem" id="widgetu41099" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41101-4" for="widgetu41099_input"><!-- content --><span class="actAsPara">First name</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u41102-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu41099_input" name="custom_U41099" tabindex="9"/></span>
+       <div class="fld-message clearfix grpelem" id="u41100-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu41104" data-required="true" data-type="email"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41105-4" for="widgetu41104_input"><!-- content --><span class="actAsPara">Last name</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u41106-3"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu41104_input" name="Email" tabindex="10"/></span>
+       <div class="fld-message clearfix grpelem" id="u41107-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu41089" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41092-4" for="widgetu41089_input"><!-- content --><span class="actAsPara">Email</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u41091-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu41089_input" name="custom_U41089" tabindex="11"/></span>
+       <div class="fld-message clearfix grpelem" id="u41090-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="clearfix grpelem" id="u41103-4"><!-- content -->
+       <p>Submitting Form...</p>
+      </div>
+      <div class="clearfix grpelem" id="u41098-4"><!-- content -->
+       <p>The server encountered an error.</p>
+      </div>
+      <div class="clearfix grpelem" id="u41093-3"><!-- content -->
+       <p>&nbsp;</p>
+      </div>
+      <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u41076-4" type="submit" value="Done!" tabindex="16"><!-- content -->
+       <div style="margin-top:-11px;height:11px;">
+        <p>Done!</p>
+       </div>
+      </button>
+      <div class="fld-grp clearfix grpelem" id="widgetu41081" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41084-4" for="widgetu41081_input"><!-- content --><span class="actAsPara">Address</span></label>
+       <span class="fld-textarea actAsDiv clearfix grpelem" id="u41083-3"><!-- content --><textarea class="wrapped-input" id="widgetu41081_input" name="custom_U41081" tabindex="13"></textarea></span>
+       <div class="fld-message clearfix grpelem" id="u41082-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu41077" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41079-4" for="widgetu41077_input"><!-- content --><span class="actAsPara">City</span></label>
+       <span class="fld-textarea actAsDiv clearfix grpelem" id="u41078-3"><!-- content --><textarea class="wrapped-input" id="widgetu41077_input" name="custom_U41077" tabindex="14"></textarea></span>
+       <div class="fld-message clearfix grpelem" id="u41080-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu41094" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41097-4" for="widgetu41094_input"><!-- content --><span class="actAsPara">Country</span></label>
+       <span class="fld-textarea actAsDiv clearfix grpelem" id="u41096-3"><!-- content --><textarea class="wrapped-input" id="widgetu41094_input" name="custom_U41094" tabindex="15"></textarea></span>
+       <div class="fld-message clearfix grpelem" id="u41095-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+      <div class="fld-grp clearfix grpelem" id="widgetu41085" data-required="true"><!-- none box -->
+       <label class="fld-label actAsDiv clearfix grpelem" id="u41086-4" for="widgetu41085_input"><!-- content --><span class="actAsPara">Phone</span></label>
+       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u41087-3"><!-- content --><input class="wrapped-input" type="text" id="widgetu41085_input" name="custom_U41085" tabindex="12"/></span>
+       <div class="fld-message clearfix grpelem" id="u41088-4"><!-- content -->
+        <p>Required</p>
+       </div>
+      </div>
+     </form>
+     <div class="verticalspacer" data-offset-top="1183" data-content-above-spacer="1182" data-content-below-spacer="510"></div>
+     <div class="browser_width colelem" id="u33474-bw">
+      <div id="u33474"><!-- column -->
+       <div class="clearfix" id="u33474_align_to_page">
+        <div class="clearfix colelem" id="u33477-4"><!-- content -->
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
-        <a class="nonblock nontext clearfix colelem" id="u554-4" href="http://#"><!-- content --><p>&nbsp; &nbsp; </p></a>
+        <a class="nonblock nontext clearfix colelem" id="u33478-4" href="http://#"><!-- content --><p>&nbsp; &nbsp; </p></a>
+        <div class="clearfix colelem" id="pu33480-4"><!-- group -->
+         <div class="clearfix grpelem" id="u33480-4"><!-- content -->
+          <p>Opening hours</p>
+         </div>
+         <div class="clearfix grpelem" id="u33479-4"><!-- content -->
+          <p>Contact us</p>
+         </div>
+        </div>
+        <div class="clearfix colelem" id="pu33476-10"><!-- group -->
+         <div class="clearfix grpelem" id="u33476-10"><!-- content -->
+          <p id="u33476-2">Monday - Saturday</p>
+          <p id="u33476-4">8:00 - 22:00</p>
+          <p id="u33476-6">Sunday</p>
+          <p id="u33476-8">8:00 - 20:00</p>
+         </div>
+         <div class="clearfix grpelem" id="u33475-10"><!-- content -->
+          <p>0 800 123 456 88</p>
+          <p>30 Hampton Road Southampton, NY 11968</p>
+          <p>info@baguetto.com</p>
+          <p>www.baguetto.com</p>
+         </div>
+        </div>
        </div>
       </div>
      </div>
-    </div>
-    <div class="clip_frame mse_pre_init" id="u6847"><!-- svg -->
-     <img class="svg" id="u6848" src="images/lg.svg?crc=158730653" width="164" height="60" alt="" data-mu-svgfallback="images/lg_poster_.png?crc=4055037045"/>
-    </div>
-    <div class="browser_width colelem" id="u5827-bw">
-     <div id="u5827"><!-- group -->
-      <div class="clearfix" id="u5827_align_to_page">
-       <div class="clearfix grpelem" id="u5830-4"><!-- content -->
-        <p>2017 All rights reserved. Designed by Hopeless Team.</p>
+     <div class="clip_frame mse_pre_init" id="u33533"><!-- svg -->
+      <img class="svg temp_no_img_src" id="u33534" data-orig-src="images/lg.svg?crc=158730653" width="164" height="60" alt="" data-mu-svgfallback="images/lg_poster_.png?crc=4055037045" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="browser_width colelem" id="u33481-bw">
+      <div id="u33481"><!-- group -->
+       <div class="clearfix" id="u33481_align_to_page">
+        <div class="clearfix grpelem" id="u33483-4"><!-- content -->
+         <p>2017 All rights reserved. Designed by Hopeless Team.</p>
+        </div>
        </div>
       </div>
      </div>
@@ -229,20 +409,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","webpro","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","webpro","jquery.scrolleffects","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1170'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#widgetu12424', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu12424 */
-$('#u6636-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,40.05]},{"speed":[null,0],"in":[40.05,Infinity]}]);/* scroll effect */
-$('#u6644').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,40]},{"speed":[0,0],"in":[40,Infinity]}]);/* scroll effect */
-$('#menuu6423').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,39.45]},{"speed":[0,0],"in":[39.45,Infinity]}]);/* scroll effect */
-$('#u6847').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,976.65]},{"speed":[0,0],"in":[976.65,Infinity]}]);/* scroll effect */
-Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.initWidget('#widgetu41075', ['#bp_1170'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu41075 */
+$('#bp_1170').one('muse_this_bp_activate', function(){
+$('#u33487-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,100.57]},{"speed":[null,0],"in":[100.57,Infinity]}], $(this)); /* scroll effect */
+$('#u33531').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,108.02]},{"speed":[0,0],"in":[108.02,Infinity]}], $(this)); /* scroll effect */
+$('#menuu33488').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,99.95]},{"speed":[0,0],"in":[99.95,Infinity]}], $(this)); /* scroll effect */
+$('#u33533').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1228.33]},{"speed":[0,0],"in":[1228.33,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u6636-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,40.05]},{"speed":[null,0],"in":[40.05,Infinity]}], $(this)); /* scroll effect */
+$('#u6644').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,40]},{"speed":[0,0],"in":[40,Infinity]}], $(this)); /* scroll effect */
+$('#menuu6423').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,39.45]},{"speed":[0,0],"in":[39.45,Infinity]}], $(this)); /* scroll effect */
+$('#u6847').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,976.65]},{"speed":[0,0],"in":[976.65,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 

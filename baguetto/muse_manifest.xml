@@ -1,77 +1,56 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.gg.com" resolutions="1x" timestamp="1497003669330">
-  <folder name="phone">
-    <folder name="css">
-      <file name="contact-us.css" crc="295389071" ref="phone>contact-us"/>
-      <file name="about-us.css" crc="3948561695" ref="phone>about-us"/>
-      <file name="gallery.css" crc="101860270" ref="phone>gallery"/>
-      <file name="index.css" crc="3799059371" ref="phone>index"/>
-      <file name="menu.css" crc="4196674778" ref="phone>menu"/>
-      <file name="master_a-master.css" crc="1010194" ref="phone>cart:phone>menu:phone>contact-us:phone>product-detail:phone>index:phone>article-detail:phone>checkout:phone>articles:phone>gallery:phone>about-us:phone>menu-detail"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>cart:phone>menu:phone>contact-us:phone>product-detail:phone>index:phone>article-detail:phone>checkout:phone>articles:phone>gallery:phone>about-us:phone>menu-detail"/>
-      <file name="cart.css" crc="3772448592" ref="phone>cart"/>
-      <file name="product-detail.css" crc="329208478" ref="phone>product-detail"/>
-      <file name="article-detail.css" crc="144476163" ref="phone>article-detail"/>
-      <file name="nomq_article-detail.css" crc="3824530138" ref="phone>article-detail"/>
-      <file name="checkout.css" crc="35750736" ref="phone>checkout"/>
-      <file name="articles.css" crc="3926493144" ref="phone>articles"/>
-      <file name="menu-detail.css" crc="479722858" ref="phone>menu-detail"/>
-    </folder>
-    <file name="index.html" crc="465392788" seo="true" mt="1497001061181" redirect="true"/>
-    <file name="about-us.html" crc="77521953" seo="true" mt="1497002309229" redirect="true"/>
-    <file name="gallery.html" crc="220972127" seo="true" mt="1497001405939" redirect="true"/>
-    <file name="menu.html" crc="4106918884" seo="true" mt="1497001374000" redirect="true"/>
-    <file name="contact-us.html" crc="4110221243" seo="true" mt="1497001234959" redirect="true"/>
-    <file name="menu-detail.html" crc="4023153479" seo="true" mt="1497001497056" redirect="true"/>
-    <file name="product-detail.html" crc="4147713567" seo="true" mt="1497001501169" redirect="true"/>
-    <file name="cart.html" crc="36028697" seo="true" mt="1497003240507" redirect="true"/>
-    <file name="checkout.html" crc="7267" seo="true" mt="1497003339489" redirect="true"/>
-    <file name="articles.html" crc="363307653" seo="true" mt="1497001484317" redirect="true"/>
-    <file name="article-detail.html" crc="320179952" seo="true" mt="1497001490469" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.gg.com" resolutions="1x" timestamp="1497019001439">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="288478064" ref="contact-us:about-us:menu:index:gallery:article-detail:product-detail:checkout:menu-detail:articles:cart"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact-us:about-us:menu:index:gallery:article-detail:product-detail:checkout:menu-detail:articles:cart"/>
-    <file name="contact-us.css" crc="128702977" ref="contact-us"/>
-    <file name="about-us.css" crc="4103852322" ref="about-us"/>
-    <file name="menu.css" crc="4283925402" ref="menu"/>
-    <file name="index.css" crc="30209116" ref="index"/>
-    <file name="gallery.css" crc="3902641005" ref="gallery"/>
-    <file name="article-detail.css" crc="4016118392" ref="article-detail"/>
-    <file name="nomq_article-detail.css" crc="455740574" ref="article-detail"/>
-    <file name="product-detail.css" crc="87373184" ref="product-detail"/>
-    <file name="checkout.css" crc="462107406" ref="checkout"/>
-    <file name="menu-detail.css" crc="502553190" ref="menu-detail"/>
-    <file name="nomq_menu-detail.css" crc="490607294" ref="menu-detail"/>
-    <file name="articles.css" crc="348751741" ref="articles"/>
-    <file name="nomq_articles.css" crc="39319508" ref="articles"/>
-    <file name="cart.css" crc="451167298" ref="cart"/>
+    <file name="master_a-master.css" crc="118710172" ref="gallery:menu:index:contact-us:about-us:article-detail:cart:checkout:articles:menu-detail:product-detail"/>
+    <file name="nomq_preview_master_a-master.css" crc="463500881" ref="gallery:menu:index:contact-us:about-us:article-detail:cart:checkout:articles:menu-detail:product-detail"/>
+    <file name="gallery.css" crc="4164880997" ref="gallery"/>
+    <file name="menu.css" crc="304278478" ref="menu"/>
+    <file name="nomq_menu.css" crc="355900764" ref="menu"/>
+    <file name="index.css" crc="4158148396" ref="index"/>
+    <file name="nomq_index.css" crc="3912995035" ref="index"/>
+    <file name="contact-us.css" crc="4126398156" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="4129390305" ref="contact-us"/>
+    <file name="about-us.css" crc="4056542252" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="532004671" ref="about-us"/>
+    <file name="article-detail.css" crc="9298449" ref="article-detail"/>
+    <file name="nomq_article-detail.css" crc="3865310012" ref="article-detail"/>
+    <file name="cart.css" crc="226285048" ref="cart"/>
+    <file name="nomq_cart.css" crc="3876946559" ref="cart"/>
+    <file name="checkout.css" crc="4273786946" ref="checkout"/>
+    <file name="nomq_checkout.css" crc="3938316404" ref="checkout"/>
+    <file name="articles.css" crc="177893420" ref="articles"/>
+    <file name="nomq_articles.css" crc="243237390" ref="articles"/>
+    <file name="menu-detail.css" crc="3918045664" ref="menu-detail"/>
+    <file name="nomq_menu-detail.css" crc="70517808" ref="menu-detail"/>
+    <file name="product-detail.css" crc="4089045488" ref="product-detail"/>
+    <file name="nomq_product-detail.css" crc="329534072" ref="product-detail"/>
+    <file name="nomq_gallery.css" crc="4002339153" ref="gallery"/>
   </folder>
   <folder name="fonts">
-    <file name="kadwa-regular.woff" crc="4009192613"/>
-    <file name="kadwa-regular.eot" crc="4252406996"/>
-    <file name="kadwa-regular.svg" crc="4005098666"/>
-    <file name="fontawesome-webfont.woff" crc="462672289"/>
-    <file name="fontawesome-webfont.eot" crc="415170694"/>
-    <file name="fontawesome-webfont.svg" crc="3771442179"/>
-    <file name="opensans-semibold.woff" crc="4207567807"/>
-    <file name="opensans-semibold.eot" crc="3961494764"/>
-    <file name="opensans-semibold.svg" crc="313552652"/>
-    <file name="montserrat-medium.woff" crc="282810095"/>
-    <file name="montserrat-medium.eot" crc="3906056467"/>
-    <file name="montserrat-medium.svg" crc="503097994"/>
-    <file name="montserrat-semibold.woff" crc="4007918536"/>
-    <file name="montserrat-semibold.eot" crc="3824387541"/>
-    <file name="montserrat-semibold.svg" crc="4274178295"/>
     <file name="montserrat-lightitalic.woff" crc="395711919"/>
     <file name="montserrat-lightitalic.eot" crc="3954124467"/>
     <file name="montserrat-lightitalic.svg" crc="470408745"/>
+    <file name="kadwa-regular.woff" crc="4009192613"/>
+    <file name="kadwa-regular.eot" crc="4252406996"/>
+    <file name="kadwa-regular.svg" crc="4005098666"/>
+    <file name="opensans-semibold.woff" crc="4207567807"/>
+    <file name="opensans-semibold.eot" crc="3961494764"/>
+    <file name="opensans-semibold.svg" crc="313552652"/>
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+    <file name="montserrat-medium.woff" crc="282810095"/>
+    <file name="montserrat-medium.eot" crc="3906056467"/>
+    <file name="montserrat-medium.svg" crc="503097994"/>
     <file name="montserrat-regular.woff" crc="504855270"/>
     <file name="montserrat-regular.eot" crc="91379199"/>
     <file name="montserrat-regular.svg" crc="293316029"/>
     <file name="kiteone-regular.woff" crc="3784435256"/>
     <file name="kiteone-regular.eot" crc="190125811"/>
     <file name="kiteone-regular.svg" crc="3889986210"/>
+    <file name="montserrat-semibold.woff" crc="4007918536"/>
+    <file name="montserrat-semibold.eot" crc="3824387541"/>
+    <file name="montserrat-semibold.svg" crc="4274178295"/>
     <file name="opensans.woff" crc="292105469"/>
     <file name="opensans.eot" crc="53655636"/>
     <file name="opensans.svg" crc="72077482"/>
@@ -83,174 +62,173 @@
     <file name="montserrat-light.svg" crc="68434327"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>articles:phone>article-detail"/>
-    <file name="museutils.js" crc="4148063285" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>articles:phone>article-detail"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>articles:phone>article-detail"/>
-    <file name="museconfig.js" crc="172512987" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>articles:phone>article-detail"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>articles:phone>article-detail"/>
-    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>index:phone>about-us:phone>gallery:phone>menu:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>contact-us:phone>articles:phone>article-detail"/>
-    <file name="webpro.js" crc="3986320349" ref="index:about-us:menu:contact-us:phone>index:phone>about-us:phone>menu:phone>contact-us:menu-detail:product-detail:checkout:phone>menu-detail:phone>product-detail:phone>checkout"/>
-    <file name="musewpslideshow.js" crc="405464237" ref="index:about-us:menu:phone>index:phone>about-us:phone>menu:menu-detail:phone>menu-detail"/>
-    <file name="jquery.museoverlay.js" crc="305414130" ref="index:about-us:menu:phone>index:phone>about-us:phone>menu:menu-detail:phone>menu-detail"/>
-    <file name="touchswipe.js" crc="221459597" ref="index:about-us:menu:phone>index:phone>about-us:phone>menu:menu-detail:phone>menu-detail"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:phone>menu-detail:phone>product-detail:phone>cart:phone>articles"/>
-    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:about-us:gallery:menu:contact-us:phone>about-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>index:phone>gallery:phone>menu:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>contact-us:phone>articles:phone>article-detail"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>index:phone>about-us:phone>gallery:phone>menu:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>contact-us:phone>articles:phone>article-detail"/>
-    <file name="require.js" crc="4159430777" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>articles:phone>article-detail"/>
-    <file name="form_check.php" crc="303648844" ref="phone>checkout"/>
-    <file name="form_throttle.php" crc="236764551" ref="phone>checkout"/>
-    <file name="form_process.php" crc="4272079531" ref="phone>checkout"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="museconfig.js" crc="172512987" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="webpro.js" crc="3986320349" ref="index:about-us:menu:contact-us:menu-detail:product-detail:checkout"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:about-us:menu:menu-detail"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:about-us:menu:menu-detail"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:about-us:menu:menu-detail"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:about-us:menu:contact-us:gallery:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="require.js" crc="4159430777" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="form_check.php" crc="303648844" ref="contact-us"/>
+    <file name="form_throttle.php" crc="236764551" ref="contact-us"/>
+    <file name="form_process.php" crc="4272079531" ref="contact-us"/>
     <file name="form-u2127.php" crc="393743009" ref="contact-us"/>
-    <file name="jquery.museresponsive.js" crc="3991890305" ref="article-detail:articles:menu-detail"/>
-    <file name="musewpdisclosure.js" crc="3865010892" ref="product-detail:phone>product-detail"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="product-detail"/>
+    <file name="form-u32461.php" crc="312137779" ref="contact-us"/>
     <file name="form-u12424.php" crc="4060135455" ref="checkout"/>
-    <file name="form-u22758.php" crc="3865524011" ref="phone>contact-us"/>
-    <file name="form-u31498.php" crc="4257168080" ref="phone>checkout"/>
+    <file name="form-u41075.php" crc="4223406513" ref="checkout"/>
   </folder>
   <folder name="images">
-    <file name="lg.svg" crc="158730653" seo="true" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout:phone>index:phone>about-us:phone>gallery:phone>menu:phone>menu-detail:phone>product-detail:phone>cart:phone>checkout:phone>contact-us:phone>articles:phone>article-detail"/>
-    <file name="lg_poster_.png" crc="4055037045" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:about-us:gallery:menu:contact-us:phone>index:phone>about-us:phone>gallery:phone>menu:phone>contact-us:article-detail:articles:menu-detail:product-detail:cart:phone>menu-detail:phone>product-detail:phone>cart:phone>articles"/>
-    <file name="welcome.jpg" crc="393613557" seo="true" ref="index:phone>index"/>
-    <file name="salem.jpg" crc="181548576" seo="true" ref="index:menu:phone>index:phone>menu:menu-detail:phone>menu-detail"/>
-    <file name="abt.jpg" crc="173073588" seo="true" ref="index:phone>index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:menu:phone>index:phone>menu:menu-detail:phone>menu-detail"/>
-    <file name="blueberry-buttermilk-pancakes-horiz-640.jpg" crc="3953903907" ref="index:phone>index:phone>menu"/>
-    <file name="m-product-2.jpg" crc="41659377" ref="index:phone>index:article-detail"/>
-    <file name="peanut-butter-cookie-horiz-800.jpg" crc="3990908776" ref="index:phone>index:phone>menu"/>
-    <file name="plum-galette-horiz-a-640.jpg" crc="3959725866" ref="index:phone>index"/>
-    <file name="strawberry-mascarpone-tart-640.jpg" crc="80193161" ref="index:phone>index:phone>menu"/>
-    <file name="slide4-r3-1600x800.jpg" crc="442275373" ref="index:phone>index"/>
-    <file name="blueberry-buckle-horiz-800.jpg" crc="225803405" seo="true" ref="index:phone>index"/>
-    <file name="lemon-meringue-pie-horiz-b-1600.jpg" crc="4282796114" seo="true" ref="index:phone>index"/>
+    <file name="lg.svg" crc="158730653" seo="true" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="lg_poster_.png" crc="4055037045" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:gallery:menu:contact-us:article-detail:articles:menu-detail:product-detail:cart:checkout"/>
+    <file name="welcome.jpg" crc="393613557" seo="true" ref="index"/>
+    <file name="salem.jpg" crc="181548576" seo="true" ref="index:menu:menu-detail"/>
+    <file name="abt.jpg" crc="173073588" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:menu:menu-detail"/>
+    <file name="blueberry-buckle-horiz-800.jpg" crc="225803405" seo="true" ref="index"/>
+    <file name="lemon-meringue-pie-horiz-b-1600.jpg" crc="4282796114" seo="true" ref="index"/>
     <file name="2016-11-1-cornbread-7-u7156-fr.jpg" crc="535701628" ref="index"/>
-    <file name="blueberry-buckle-horiz-8002.jpg" crc="464448890" ref="index:phone>index"/>
-    <file name="banana-nut-muffins-horiz-a-1200.jpg" crc="4007203131" ref="phone>index"/>
-    <file name="2016-12-08-pistachio-cookies-6.jpg" crc="480002274" ref="phone>index"/>
-    <file name="2016-12-05-salmonquiches-6.jpg" crc="17939161" ref="phone>index"/>
-    <file name="2016-12-09-bundtcakefinal-4.jpg" crc="4171590009" ref="index:phone>index:phone>menu"/>
-    <file name="blueberry-buttermilk-pancakes-horiz-640-u936-fr.jpg" crc="3801624421" ref="index"/>
-    <file name="skor-chocolate-chip-cookies-5857w.jpg" crc="4048182237" ref="phone>index"/>
-    <file name="blackberry-muffins-horiz-a-1600 (1)-u945-fr.jpg" crc="405199072" ref="index"/>
-    <file name="2017-04-08-asparagus-quiche-4.jpg" crc="3840403640" ref="index:gallery:phone>index:phone>gallery"/>
-    <file name="m-testimonial-1-570x750.jpg" crc="4254723472" seo="true" ref="index:about-us:phone>index:phone>about-us"/>
-    <file name="san-francisco-jane-pastries-bakery1015.jpg" crc="335657568" ref="index:phone>index"/>
-    <file name="94d9a1c1709095931d8586efccf6e2c0 (1).jpg" crc="445285503" ref="index:phone>index"/>
-    <file name="food-pizza-kitchen-recipe.jpg" crc="59543137" ref="index:phone>index"/>
-    <file name="black-tea-vanilla-muffins-cup.jpg" crc="4262920619" ref="index:phone>index"/>
-    <file name="1.png" crc="4094745089" seo="true" ref="index:phone>index"/>
-    <file name="2.png" crc="350732177" seo="true" ref="index:phone>index"/>
-    <file name="3.png" crc="432346592" seo="true" ref="index:phone>index"/>
-    <file name="5.png" crc="4009635842" seo="true" ref="index:phone>index"/>
-    <file name="6.png" crc="88197524" seo="true" ref="index:phone>index"/>
+    <file name="m-testimonial-1-570x750.jpg" crc="4254723472" seo="true" ref="index:about-us"/>
+    <file name="san-francisco-jane-pastries-bakery1015.jpg" crc="335657568" ref="index"/>
+    <file name="1.png" crc="4094745089" seo="true" ref="index"/>
+    <file name="2.png" crc="350732177" seo="true" ref="index"/>
+    <file name="3.png" crc="432346592" seo="true" ref="index"/>
+    <file name="5.png" crc="4009635842" seo="true" ref="index"/>
+    <file name="6.png" crc="88197524" seo="true" ref="index"/>
+    <file name="m-product-2.jpg" crc="41659377" seo="true" ref="index"/>
+    <file name="blueberry-buttermilk-pancakes-horiz-640.jpg" crc="3953903907" ref="index:menu"/>
+    <file name="peanut-butter-cookie-horiz-800.jpg" crc="3990908776" ref="index:menu"/>
+    <file name="slide4-r3-1600x800.jpg" crc="442275373" ref="index"/>
+    <file name="plum-galette-horiz-a-640.jpg" crc="3959725866" ref="index"/>
+    <file name="strawberry-mascarpone-tart-640.jpg" crc="80193161" ref="index:menu"/>
+    <file name="94d9a1c1709095931d8586efccf6e2c0 (1).jpg" crc="445285503" ref="index"/>
+    <file name="food-pizza-kitchen-recipe.jpg" crc="59543137" ref="index"/>
+    <file name="black-tea-vanilla-muffins-cup.jpg" crc="4262920619" ref="index"/>
     <file name="banner6.jpg" crc="173073588" ref="about-us"/>
     <file name="58bb5e60e5e756d6bfd8a9270110c13a.jpg" crc="3880022219" seo="true" ref="about-us"/>
     <file name="village-bakery-home-retail.jpg" crc="381137637" seo="true" ref="about-us"/>
     <file name="0105village-bakery107.jpg" crc="16654014" seo="true" ref="about-us"/>
     <file name="pastries038.jpg" crc="425465905" seo="true" ref="about-us"/>
     <file name="delicious-easy-garlic-herb-flatbread-with-spelt-flour-8-ingredients-and-simple-methods-vegan-flatbread-bread-recipe.jpg" crc="70050869" seo="true" ref="about-us"/>
-    <file name="bragard-thomas-white-1.jpg" crc="255066706" seo="true" ref="about-us:phone>about-us"/>
+    <file name="bragard-thomas-white-1.jpg" crc="255066706" seo="true" ref="about-us"/>
+    <file name="man-in-chef-uniform-u794-fr.jpg" crc="372196714" ref="about-us"/>
+    <file name="mature-professional-chef-man-isolated-over-white-background-u805-fr.jpg" crc="4232532815" ref="about-us"/>
+    <file name="mature-professional-chef-man-isolated-over-white-background-4-u824-fr.jpg" crc="4073240641" ref="about-us"/>
     <file name="untitled-1.jpg" crc="4002892142" ref="about-us"/>
     <file name="banner1.jpg" crc="461519629" ref="gallery"/>
-    <file name="lemon-meringue-pie-horiz-b-16002.jpg" crc="410573011" ref="gallery:phone>gallery"/>
-    <file name="2016-09-28-paleo-muffins-7.jpg" crc="3778194037" ref="gallery:phone>gallery"/>
-    <file name="apple-coffee-cake-horiz-a-1800.jpg" crc="4025572877" ref="gallery:phone>gallery"/>
-    <file name="2016-10-29-mexicanweddingcookies-12.jpg" crc="7632038" ref="gallery:phone>gallery"/>
-    <file name="2016-12-08-pistachio-cookies-62.jpg" crc="375956638" ref="gallery:phone>gallery:menu-detail"/>
-    <file name="2016-12-07-frenchtoastcasserole-9.jpg" crc="4094836730" ref="phone>gallery:gallery"/>
-    <file name="blackberry-muffins-horiz-a-1600 (1).jpg" crc="3866424269" ref="gallery:phone>index:phone>gallery"/>
-    <file name="2017-06-10-fudgy-brownies-3.jpg" crc="347570374" ref="gallery:phone>gallery"/>
-    <file name="garlic-bread-horiz-a2-1800.jpg" crc="413056654" ref="phone>gallery:gallery"/>
-    <file name="potato-bread-horiz-a-1600.jpg" crc="3940316447" ref="gallery:phone>gallery"/>
-    <file name="menu.png" crc="377022452" seo="true" ref="menu:phone>menu:menu-detail:phone>menu-detail"/>
-    <file name="ship.jpg" crc="3764097865" seo="true" ref="menu:phone>menu:menu-detail:product-detail:phone>menu-detail"/>
+    <file name="lemon-meringue-pie-horiz-b-16002.jpg" crc="410573011" ref="gallery"/>
+    <file name="2016-09-28-paleo-muffins-7.jpg" crc="3778194037" ref="gallery"/>
+    <file name="apple-coffee-cake-horiz-a-1800.jpg" crc="4025572877" ref="gallery"/>
+    <file name="2016-10-29-mexicanweddingcookies-12.jpg" crc="7632038" ref="gallery"/>
+    <file name="2017-06-10-fudgy-brownies-3.jpg" crc="347570374" ref="gallery"/>
+    <file name="2017-04-08-asparagus-quiche-4.jpg" crc="3840403640" ref="gallery:index"/>
+    <file name="2016-12-07-frenchtoastcasserole-9.jpg" crc="4094836730" ref="gallery"/>
+    <file name="blackberry-muffins-horiz-a-1600 (1).jpg" crc="3866081188" ref="index"/>
+    <file name="garlic-bread-horiz-a2-1800.jpg" crc="413056654" ref="gallery"/>
+    <file name="potato-bread-horiz-a-1600.jpg" crc="3940316447" ref="gallery"/>
+    <file name="menu.png" crc="377022452" seo="true" ref="menu:menu-detail"/>
+    <file name="ship.jpg" crc="3764097865" seo="true" ref="menu:menu-detail:product-detail"/>
     <file name="potato-bread-horiz-a-16002.jpg" crc="4224506743" ref="menu"/>
     <file name="blackberry-muffins-horiz-a-1600.jpg" crc="259992606" ref="menu"/>
     <file name="blueberry-buttermilk-pancakes-horiz-6402.jpg" crc="3938477675" ref="menu"/>
     <file name="strawberry-mascarpone-tart-6402.jpg" crc="4112280610" ref="menu"/>
-    <file name="2016-12-09-bundtcakefinal-42.jpg" crc="348028364" ref="menu"/>
+    <file name="2016-12-09-bundtcakefinal-4.jpg" crc="4171590009" ref="menu:index"/>
     <file name="peanut-butter-cookie-horiz-8002.jpg" crc="371359481" ref="menu"/>
     <file name="banner2.jpg" crc="60577847" ref="contact-us"/>
+    <file name="banner7.jpg" crc="4218776367" ref="articles"/>
     <file name="a1.jpg" crc="450208111" seo="true" ref="article-detail"/>
     <file name="a3.jpg" crc="4260730982" seo="true" ref="article-detail"/>
     <file name="a4.jpg" crc="102022736" seo="true" ref="article-detail"/>
     <file name="a2.jpg" crc="3938530291" seo="true" ref="article-detail"/>
-    <file name="a1533x356.jpg" crc="3920937349" seo="true" ref="article-detail"/>
-    <file name="a2536x358.jpg" crc="4212137667" seo="true" ref="article-detail"/>
-    <file name="2017-04-08-asparagus-quiche-42.jpg" crc="3917627996" ref="articles:phone>articles"/>
-    <file name="philly-cheesesteak-recipe-2210w.jpg" crc="204587416" ref="articles:phone>articles"/>
-    <file name="2016-12-05-salmonquiches-62.jpg" crc="3973279502" ref="articles:menu-detail:phone>menu-detail:phone>articles"/>
-    <file name="skor-chocolate-chip-cookies-5857w2.jpg" crc="414247724" ref="articles:menu-detail"/>
-    <file name="2016-12-19-ham-cheese-casserole-8v2.jpg" crc="111117567" ref="articles:menu-detail:phone>articles"/>
-    <file name="focaccia-bread-rosemary-vertical-600.jpg" crc="444911910" ref="articles:phone>articles"/>
-    <file name="garlic-bread-horiz-a2-18002.jpg" crc="396961462" ref="phone>menu-detail:articles:menu-detail"/>
-    <file name="2016-12-07-frenchtoastcasserole-92.jpg" crc="4018242576" ref="phone>menu-detail:phone>product-detail:phone>articles:articles:menu-detail:product-detail"/>
-    <file name="boston-brown-bread-horiz-a-2000.jpg" crc="4053436503" ref="articles:phone>articles"/>
+    <file name="2017-04-08-asparagus-quiche-42.jpg" crc="3917627996" ref="articles"/>
+    <file name="philly-cheesesteak-recipe-2210w.jpg" crc="204587416" ref="articles"/>
+    <file name="2016-12-05-salmonquiches-6.jpg" crc="3986248680" ref="index"/>
+    <file name="skor-chocolate-chip-cookies-5857w.jpg" crc="4048182237" ref="index"/>
+    <file name="2016-12-19-ham-cheese-casserole-8v2.jpg" crc="111117567" ref="articles"/>
+    <file name="focaccia-bread-rosemary-vertical-600.jpg" crc="444911910" ref="articles"/>
+    <file name="garlic-bread-horiz-a2-18002.jpg" crc="396961462" ref="articles:menu-detail"/>
+    <file name="2016-12-07-frenchtoastcasserole-92.jpg" crc="4018242576" ref="articles:menu-detail:product-detail"/>
+    <file name="boston-brown-bread-horiz-a-2000.jpg" crc="4053436503" ref="articles"/>
     <file name="2016-12-08-pistachio-cookies-6-u7058-fr.jpg" crc="3944293516" ref="menu-detail"/>
     <file name="2016-11-1-cornbread-7-u7066-fr.jpg" crc="280528431" ref="menu-detail"/>
     <file name="2016-12-19-ham-cheese-casserole-8v2-u7073-fr.jpg" crc="272406100" ref="menu-detail"/>
-    <file name="2016-12-06-swissroll-29.jpg" crc="3891617164" ref="menu-detail:phone>menu-detail"/>
-    <file name="hot-cross-buns-horiz-a-1800.jpg" crc="4093997002" ref="menu-detail:product-detail:phone>menu-detail:phone>product-detail"/>
-    <file name="2016-11-1-cornbread-7.jpg" crc="376648902" ref="menu-detail"/>
-    <file name="2016-12-08-pistachio-cookies-6-u12115-fr.jpg" crc="255009483" ref="cart"/>
-    <file name="2016-11-1-cornbread-7-u18364-fr.jpg" crc="3779158649" ref="phone>index"/>
-    <file name="58bb5e60e5e756d6bfd8a9270110c13a349x202.jpg" crc="4255804393" seo="true" ref="phone>about-us"/>
-    <file name="village-bakery-home-retail349x233.jpg" crc="247375821" seo="true" ref="phone>about-us"/>
-    <file name="0105village-bakery107349x233.jpg" crc="4289112210" seo="true" ref="phone>about-us"/>
-    <file name="pastries038349x233.jpg" crc="385533360" seo="true" ref="phone>about-us"/>
-    <file name="delicious-easy-garlic-herb-flatbread-with-spelt-flour-8-ingredients-and-simple-methods-vegan-flatbread-bread-recipe349x484.jpg" crc="62815863" seo="true" ref="phone>about-us"/>
-    <file name="man-in-chef-uniform-u20773-fr.jpg" crc="47283816" ref="phone>about-us"/>
-    <file name="mature-professional-chef-man-isolated-over-white-background-u20774-fr.jpg" crc="4288038598" ref="phone>about-us"/>
-    <file name="mature-professional-chef-man-isolated-over-white-background-4-u20775-fr.jpg" crc="4282658773" ref="phone>about-us"/>
-    <file name="untitled-1-u20778-fr.jpg" crc="3971756734" ref="phone>about-us"/>
-    <file name="potato-bread-horiz-a-1600-u21550-fr.jpg" crc="4281249972" ref="phone>menu"/>
-    <file name="blackberry-muffins-horiz-a-1600 (1)-u21788-fr.jpg" crc="3773277786" ref="phone>menu"/>
-    <file name="2016-12-08-pistachio-cookies-6-u22923-fr.jpg" crc="3897680712" ref="phone>menu-detail"/>
-    <file name="skor-chocolate-chip-cookies-5857w-u22927-fr.jpg" crc="4241689318" ref="phone>menu-detail"/>
-    <file name="2016-11-1-cornbread-7-u22931-fr.jpg" crc="3795247258" ref="phone>menu-detail"/>
-    <file name="2016-12-19-ham-cheese-casserole-8v2-u22940-fr.jpg" crc="252827339" ref="phone>menu-detail"/>
-    <file name="2016-11-1-cornbread-7-u22885-fr.jpg" crc="160059277" ref="menu-detail:product-detail:phone>menu-detail:phone>product-detail"/>
-    <file name="2016-12-08-pistachio-cookies-6-u22883-fr.jpg" crc="3811246610" ref="menu-detail:product-detail:phone>menu-detail:phone>product-detail"/>
-    <file name="skor-chocolate-chip-cookies-5857w-u22015-fr.jpg" crc="3767478223" ref="phone>articles"/>
-    <file name="garlic-bread-horiz-a2-1800-u21998-fr.jpg" crc="113020977" ref="phone>articles"/>
-    <file name="banana-nut-muffins-horiz-a-1200-u915-fr.jpg" crc="298963020" ref="index"/>
-    <file name="2016-12-08-pistachio-cookies-6-u924-fr.jpg" crc="242793258" ref="index"/>
-    <file name="2016-12-05-salmonquiches-6-u921-fr.jpg" crc="4277641519" ref="index"/>
+    <file name="2016-12-06-swissroll-29.jpg" crc="3891617164" ref="menu-detail"/>
+    <file name="hot-cross-buns-horiz-a-1800.jpg" crc="4093997002" ref="menu-detail:product-detail"/>
+    <file name="2016-12-08-pistachio-cookies-6.jpg" crc="3884985333" ref="index"/>
+    <file name="blueberry-buckle-horiz-8002.jpg" crc="464448890" ref="index"/>
+    <file name="58bb5e60e5e756d6bfd8a9270110c13a349x202.jpg" crc="4255804393" seo="true" ref="about-us"/>
+    <file name="village-bakery-home-retail349x233.jpg" crc="247375821" seo="true" ref="about-us"/>
+    <file name="0105village-bakery107349x233.jpg" crc="4289112210" seo="true" ref="about-us"/>
+    <file name="pastries038349x233.jpg" crc="385533360" seo="true" ref="about-us"/>
+    <file name="delicious-easy-garlic-herb-flatbread-with-spelt-flour-8-ingredients-and-simple-methods-vegan-flatbread-bread-recipe349x484.jpg" crc="62815863" seo="true" ref="about-us"/>
+    <file name="banana-nut-muffins-horiz-a-1200-u915-fr.jpg" crc="98710488" ref="index"/>
+    <file name="2016-12-08-pistachio-cookies-6-u924-fr.jpg" crc="4231827882" ref="index"/>
+    <file name="2016-12-05-salmonquiches-6-u921-fr.jpg" crc="308680713" ref="index"/>
+    <file name="blueberry-buttermilk-pancakes-horiz-640-u936-fr.jpg" crc="3801624421" ref="index"/>
     <file name="skor-chocolate-chip-cookies-5857w-u939-fr.jpg" crc="517736943" ref="index"/>
-    <file name="man-in-chef-uniform-u794-fr.jpg" crc="372196714" ref="about-us"/>
-    <file name="mature-professional-chef-man-isolated-over-white-background-4-u824-fr.jpg" crc="4073240641" ref="about-us"/>
-    <file name="mature-professional-chef-man-isolated-over-white-background-u805-fr.jpg" crc="4232532815" ref="about-us"/>
+    <file name="blackberry-muffins-horiz-a-1600 (1)-u945-fr.jpg" crc="69646600" ref="index"/>
+    <file name="banana-nut-muffins-horiz-a-1200.jpg" crc="390212819" ref="index"/>
+    <file name="2016-12-05-salmonquiches-62.jpg" crc="3973279502" ref="articles:menu-detail"/>
+    <file name="2016-12-08-pistachio-cookies-62.jpg" crc="375956638" ref="gallery"/>
+    <file name="san-francisco-jane-pastries-bakery1015-u34469-fr.jpg" crc="327754199" ref="index"/>
+    <file name="blackberry-muffins-horiz-a-1600 (1)-u7334-fr.jpg" crc="4230152052" ref="gallery"/>
+    <file name="2016-12-09-bundtcakefinal-42.jpg" crc="348028364" ref="menu"/>
     <file name="n.jpg" crc="4124520593" ref="article-detail:articles"/>
     <file name="pexels-photo-221089.jpg" crc="4113726842" ref="article-detail"/>
     <file name="apple-coffee-cake-horiz-a-18002.jpg" crc="514180099" ref="article-detail"/>
-    <file name="2016-11-04-sweetpotatorolls-11-u27991-fr.jpg" crc="250602435" ref="article-detail"/>
-    <file name="2016-11-05-chocolate-gingerbread-cookies-10-u28219-fr.jpg" crc="3979215153" ref="article-detail"/>
-    <file name="2016-11-12-chocolatepecantart-8-u28235-fr.jpg" crc="378618568" ref="article-detail"/>
     <file name="2016-11-26-gingerbreadwaffles-7.jpg" crc="488186925" ref="article-detail"/>
+    <file name="2016-11-04-sweetpotatorolls-11-u27991-fr.jpg" crc="250602435" ref="article-detail"/>
     <file name="buttermilk-waffles-vertical-a-1600-u28631-fr.jpg" crc="4031536286" ref="article-detail"/>
+    <file name="2016-11-05-chocolate-gingerbread-cookies-10-u28219-fr.jpg" crc="3979215153" ref="article-detail"/>
     <file name="2016-08-10-banana-bread-granola-11-u28636-fr.jpg" crc="3887655510" ref="article-detail"/>
+    <file name="2016-11-12-chocolatepecantart-8-u28235-fr.jpg" crc="378618568" ref="article-detail"/>
     <file name="m-product-2-u28641-fr.jpg" crc="4162144057" ref="article-detail"/>
-    <file name="2016-11-04-sweetpotatorolls-11.jpg" crc="3762536400" ref="article-detail"/>
-    <file name="buttermilk-waffles-vertical-a-1600.jpg" crc="4000279719" ref="article-detail"/>
-    <file name="2016-11-05-chocolate-gingerbread-cookies-10.jpg" crc="4222738841" ref="article-detail"/>
-    <file name="2016-08-10-banana-bread-granola-11.jpg" crc="3964672141" ref="article-detail"/>
-    <file name="2016-11-12-chocolatepecantart-8.jpg" crc="536648516" ref="article-detail"/>
-    <file name="banner6-u20815-fr.jpg" crc="3862222960" ref="phone>about-us"/>
-    <file name="banner1-u21264-fr.jpg" crc="496045998" ref="phone>gallery"/>
-    <file name="ship-u23691-fr.jpg" crc="4042766489" ref="phone>product-detail"/>
-    <file name="2016-12-08-pistachio-cookies-6-u31344-fr.jpg" crc="4184253708" ref="phone>cart"/>
-    <file name="banner2-u22783-fr.jpg" crc="3840273799" ref="phone>contact-us"/>
-    <file name="banner7-u22079-fr.jpg" crc="3980347329" ref="phone>articles"/>
+    <file name="pexels-photo-221089-u41610-fr.jpg" crc="4153274319" ref="article-detail"/>
+    <file name="a1339x227.jpg" crc="102507094" seo="true" ref="article-detail"/>
+    <file name="a2340x227.jpg" crc="462016395" seo="true" ref="article-detail"/>
+    <file name="2016-11-04-sweetpotatorolls-11-u41582-fr.jpg" crc="4000409454" ref="article-detail"/>
+    <file name="2016-11-05-chocolate-gingerbread-cookies-10-u41584-fr.jpg" crc="3817118027" ref="article-detail"/>
+    <file name="2016-11-12-chocolatepecantart-8-u41586-fr.jpg" crc="51204898" ref="article-detail"/>
+    <file name="buttermilk-waffles-vertical-a-1600-u41583-fr.jpg" crc="241455149" ref="article-detail"/>
+    <file name="2016-08-10-banana-bread-granola-11-u41585-fr.jpg" crc="158241056" ref="article-detail"/>
+    <file name="m-product-2-u41587-fr.jpg" crc="3821776354" ref="article-detail"/>
+    <file name="skor-chocolate-chip-cookies-5857w2.jpg" crc="414247724" ref="articles:menu-detail"/>
+    <file name="2016-12-08-pistachio-cookies-6-u12115-fr.jpg" crc="255009483" ref="cart"/>
+    <file name="2016-11-1-cornbread-7-u34571-fr.jpg" crc="3779158649" ref="index"/>
+    <file name="man-in-chef-uniform-u35882-fr.jpg" crc="47283816" ref="about-us"/>
+    <file name="mature-professional-chef-man-isolated-over-white-background-u35891-fr.jpg" crc="4288038598" ref="about-us"/>
+    <file name="mature-professional-chef-man-isolated-over-white-background-4-u35894-fr.jpg" crc="4282658773" ref="about-us"/>
+    <file name="blackberry-muffins-horiz-a-1600 (1)-u36349-fr.jpg" crc="486353521" ref="gallery"/>
+    <file name="potato-bread-horiz-a-1600-u36820-fr.jpg" crc="4281249972" ref="menu"/>
+    <file name="blackberry-muffins-horiz-a-1600 (1)-u36821-fr.jpg" crc="3763430444" ref="menu"/>
+    <file name="skor-chocolate-chip-cookies-5857w-u40362-fr.jpg" crc="3767478223" ref="articles"/>
+    <file name="garlic-bread-horiz-a2-1800-u40346-fr.jpg" crc="113020977" ref="articles"/>
+    <file name="2016-12-08-pistachio-cookies-6-u6691-fr.jpg" crc="3811246610" ref="menu-detail:product-detail"/>
+    <file name="2016-11-1-cornbread-7-u6709-fr.jpg" crc="160059277" ref="menu-detail:product-detail"/>
+    <file name="2016-12-08-pistachio-cookies-6-u37506-fr.jpg" crc="3897680712" ref="menu-detail"/>
+    <file name="skor-chocolate-chip-cookies-5857w-u37509-fr.jpg" crc="4241689318" ref="menu-detail"/>
+    <file name="2016-11-1-cornbread-7-u37513-fr.jpg" crc="3795247258" ref="menu-detail"/>
+    <file name="2016-12-19-ham-cheese-casserole-8v2-u37521-fr.jpg" crc="252827339" ref="menu-detail"/>
+    <file name="2016-12-08-pistachio-cookies-6-u34066-fr.jpg" crc="4184253708" ref="cart"/>
   </folder>
-  <file name="index.html" crc="4104602629" seo="true" mt="1496999949594" redirect="true"/>
-  <file name="about-us.html" crc="80774671" seo="true" mt="1496999949594" redirect="true"/>
-  <file name="gallery.html" crc="234010083" seo="true" mt="1496999949594" redirect="true"/>
-  <file name="menu.html" crc="4207669723" seo="true" mt="1496999949594" redirect="true"/>
-  <file name="contact-us.html" crc="3972644203" seo="true" mt="1497001842688" redirect="true"/>
-  <file name="article-detail.html" crc="3883005385" seo="true" mt="1497003606739" redirect="true"/>
-  <file name="articles.html" crc="4163450287" seo="true" mt="1497003606739" redirect="true"/>
-  <file name="menu-detail.html" crc="4201190546" seo="true" mt="1497003606739" redirect="true"/>
-  <file name="product-detail.html" crc="4173904888" seo="true" mt="1497003606739" redirect="true"/>
-  <file name="cart.html" crc="3960992321" seo="true" mt="1497003606739" redirect="true"/>
-  <file name="checkout.html" crc="92877158" seo="true" mt="1497003606739" redirect="true"/>
+  <file name="index.html" crc="333706303" seo="true" mt="1497018949525" redirect="true"/>
+  <file name="about-us.html" crc="4224919937" seo="true" mt="1497018949523" redirect="true"/>
+  <file name="gallery.html" crc="70634158" seo="true" mt="1497018949521" redirect="true"/>
+  <file name="menu.html" crc="4211447966" seo="true" mt="1497018949519" redirect="true"/>
+  <file name="contact-us.html" crc="450166014" seo="true" mt="1497018949509" redirect="true"/>
+  <file name="article-detail.html" crc="4048372234" seo="true" mt="1497018949504" redirect="true"/>
+  <file name="articles.html" crc="4128445662" seo="true" mt="1497018949507" redirect="true"/>
+  <file name="menu-detail.html" crc="328546837" seo="true" mt="1497018949517" redirect="true"/>
+  <file name="product-detail.html" crc="3807606185" seo="true" mt="1497018949516" redirect="true"/>
+  <file name="cart.html" crc="156216588" seo="true" mt="1497018949514" redirect="true"/>
+  <file name="checkout.html" crc="4027991659" seo="true" mt="1497018949512" redirect="true"/>
 </manifest>
