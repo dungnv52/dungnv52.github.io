@@ -1,56 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://abc.com/index.html</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/index.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/drill.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/um-03.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/9-01%20copy.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-1-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/12.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-2-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/gas.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/astronaut.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-3-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/vhs-01.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-4-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abc.com/images/hb-01.jpg</loc>
-    <lastmod>2017-04-26</lastmod>
+    <loc>http://www.www/portfolio-7-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-8-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-1-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-9-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-5-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-6-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-2-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-3-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-5-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-4-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-6-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-7-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-8-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-9-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-1-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-2-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-3-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-4-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-5-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-6-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-7-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-9-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-8-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-10-p3.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-10-p2.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/portfolio-10-p1.html</loc>
+    <lastmod>2017-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.www/contact.html</loc>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
