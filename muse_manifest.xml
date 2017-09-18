@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.www" resolutions="1x" timestamp="1505656585615">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.www" resolutions="1x" timestamp="1505714703720">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="393695864" ref="index:portfolio-6-p3:portfolio-1-p2:portfolio-3-p3:portfolio-10-p1:portfolio-9-p2:portfolio-7-p3:portfolio-8-p3:contact:portfolio-10-p2:portfolio-9-p1:portfolio-4-p1:portfolio-2-p2:portfolio-6-p2:portfolio-9-p3:portfolio-1-p1:portfolio-2-p1:portfolio-5-p2:portfolio-p1:portfolio-4-p2:portfolio-7-p2:portfolio-3-p2:portfolio-6-p1:portfolio-8-p1:portfolio-p2:portfolio-8-p2:portfolio-4-p3:portfolio-10-p3:portfolio-5-p3:portfolio-7-p1:portfolio-3-p1:portfolio-p3:portfolio-5-p1:portfolio-1-p3:portfolio-2-p3"/>
-    <file name="index.css" crc="3938062998" ref="index"/>
+    <file name="master_a-master.css" crc="4197547734" ref="index:portfolio-6-p3:portfolio-1-p2:portfolio-3-p3:portfolio-10-p1:portfolio-9-p2:portfolio-7-p3:portfolio-8-p3:contact:portfolio-10-p2:portfolio-9-p1:portfolio-4-p1:portfolio-2-p2:portfolio-6-p2:portfolio-9-p3:portfolio-1-p1:portfolio-2-p1:portfolio-5-p2:portfolio-p1:portfolio-4-p2:portfolio-7-p2:portfolio-3-p2:portfolio-6-p1:portfolio-8-p1:portfolio-p2:portfolio-8-p2:portfolio-4-p3:portfolio-10-p3:portfolio-5-p3:portfolio-7-p1:portfolio-3-p1:portfolio-p3:portfolio-5-p1:portfolio-1-p3:portfolio-2-p3"/>
+    <file name="index.css" crc="343517227" ref="index"/>
     <file name="portfolio-6-p3.css" crc="4163774861" ref="portfolio-6-p3"/>
     <file name="portfolio-1-p2.css" crc="351004690" ref="portfolio-1-p2"/>
-    <file name="portfolio-3-p3.css" crc="3968603760" ref="portfolio-3-p3"/>
+    <file name="portfolio-3-p3.css" crc="4152844321" ref="portfolio-3-p3"/>
     <file name="portfolio-10-p1.css" crc="4287920898" ref="portfolio-10-p1"/>
     <file name="portfolio-9-p2.css" crc="4131098373" ref="portfolio-9-p2"/>
     <file name="portfolio-7-p3.css" crc="481001284" ref="portfolio-7-p3"/>
     <file name="portfolio-8-p3.css" crc="4205020340" ref="portfolio-8-p3"/>
-    <file name="contact.css" crc="265608007" ref="contact"/>
+    <file name="contact.css" crc="130214377" ref="contact"/>
     <file name="portfolio-10-p2.css" crc="3883745194" ref="portfolio-10-p2"/>
     <file name="portfolio-9-p1.css" crc="503999434" ref="portfolio-9-p1"/>
     <file name="portfolio-4-p1.css" crc="4036266246" ref="portfolio-4-p1"/>
@@ -20,23 +20,23 @@
     <file name="portfolio-1-p1.css" crc="4122836565" ref="portfolio-1-p1"/>
     <file name="portfolio-2-p1.css" crc="3857402911" ref="portfolio-2-p1"/>
     <file name="portfolio-5-p2.css" crc="108237685" ref="portfolio-5-p2"/>
-    <file name="portfolio-p1.css" crc="4216668425" ref="portfolio-p1"/>
+    <file name="portfolio-p1.css" crc="4255991518" ref="portfolio-p1"/>
     <file name="portfolio-4-p2.css" crc="300975610" ref="portfolio-4-p2"/>
     <file name="portfolio-7-p2.css" crc="286533554" ref="portfolio-7-p2"/>
     <file name="portfolio-3-p2.css" crc="4164740858" ref="portfolio-3-p2"/>
     <file name="portfolio-6-p1.css" crc="413354520" ref="portfolio-6-p1"/>
-    <file name="portfolio-8-p1.css" crc="4048053754" ref="portfolio-8-p1"/>
+    <file name="portfolio-8-p1.css" crc="4275279512" ref="portfolio-8-p1"/>
     <file name="portfolio-p2.css" crc="42566369" ref="portfolio-p2"/>
     <file name="portfolio-8-p2.css" crc="3860575398" ref="portfolio-8-p2"/>
     <file name="portfolio-4-p3.css" crc="413571854" ref="portfolio-4-p3"/>
-    <file name="portfolio-10-p3.css" crc="422789241" ref="portfolio-10-p3"/>
+    <file name="portfolio-10-p3.css" crc="3796599673" ref="portfolio-10-p3"/>
     <file name="portfolio-5-p3.css" crc="4249308419" ref="portfolio-5-p3"/>
     <file name="portfolio-7-p1.css" crc="4062232757" ref="portfolio-7-p1"/>
     <file name="portfolio-3-p1.css" crc="222473808" ref="portfolio-3-p1"/>
-    <file name="portfolio-p3.css" crc="458252146" ref="portfolio-p3"/>
+    <file name="portfolio-p3.css" crc="4210749070" ref="portfolio-p3"/>
     <file name="portfolio-5-p1.css" crc="350488862" ref="portfolio-5-p1"/>
-    <file name="portfolio-1-p3.css" crc="3859054987" ref="portfolio-1-p3"/>
-    <file name="portfolio-2-p3.css" crc="3855194649" ref="portfolio-2-p3"/>
+    <file name="portfolio-1-p3.css" crc="4272927982" ref="portfolio-1-p3"/>
+    <file name="portfolio-2-p3.css" crc="347858151" ref="portfolio-2-p3"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-medium.woff" crc="282810095"/>
@@ -112,7 +112,7 @@
     <file name="5.jpg" crc="456853087" ref="portfolio-1-p1"/>
     <file name="c.jpg" crc="191384605" ref="portfolio-2-p1"/>
     <file name="42.jpg" crc="4023292520" ref="portfolio-2-p1"/>
-    <file name="22.jpg" crc="4053129972" ref="portfolio-2-p1"/>
+    <file name="22.jpg" crc="57303180" ref="portfolio-2-p1:portfolio-p3"/>
     <file name="23.jpg" crc="506296823" ref="portfolio-p3:portfolio-1-p3"/>
     <file name="15.jpg" crc="337521218" ref="portfolio-p3:portfolio-3-p3"/>
     <file name="10.jpg" crc="314614005" ref="portfolio-p3:portfolio-5-p3"/>
@@ -124,8 +124,7 @@
     <file name="lg-01-u581-fr.png" crc="17128659" ref="portfolio-p1"/>
     <file name="tiembolac-01-u574-fr.jpg" crc="90944703" ref="portfolio-p1"/>
     <file name="free poster mockup psd3-u583-fr.jpg" crc="172970580" ref="portfolio-p1"/>
-    <file name="232.jpg" crc="4188286763" ref="portfolio-p3"/>
-    <file name="222.jpg" crc="57303180" ref="portfolio-p3:portfolio-7-p3"/>
+    <file name="222.jpg" crc="57303180" ref="portfolio-7-p3"/>
     <file name="free poster mockup psd2.jpg" crc="192734945" ref="portfolio-3-p1"/>
     <file name="free poster mockup psd.jpg" crc="110977341" ref="portfolio-3-p1"/>
     <file name="sign_1.jpg" crc="3854856033" ref="portfolio-4-p1"/>
@@ -144,18 +143,19 @@
     <file name="23-u2859-fr.jpg" crc="250265696" ref="portfolio-8-p3"/>
     <file name="untitled-12.jpg" crc="3972383308" ref="portfolio-10-p3"/>
     <file name="122.jpg" crc="3984886401" ref="index"/>
-    <file name="untitled-13.jpg" crc="4201749567" ref="contact"/>
+    <file name="untitled-13.jpg" crc="3840707569" ref="contact"/>
+    <file name="232.jpg" crc="4188286763" ref="portfolio-p3"/>
   </folder>
-  <file name="index.html" crc="4087348251" seo="true" mt="1505655395118" redirect="true"/>
+  <file name="index.html" crc="4269331448" seo="true" mt="1505714168677" redirect="true"/>
   <file name="portfolio-p2.html" crc="353706757" seo="true" mt="1505655188528" redirect="true"/>
-  <file name="portfolio-p1.html" crc="3978682658" seo="true" mt="1505655611279" redirect="true"/>
+  <file name="portfolio-p1.html" crc="3954292963" seo="true" mt="1505713680389" redirect="true"/>
   <file name="portfolio-1-p1.html" crc="3891487447" seo="true" mt="1505656327060" redirect="true"/>
   <file name="portfolio-2-p1.html" crc="4292469073" seo="true" mt="1505656354467" redirect="true"/>
-  <file name="portfolio-p3.html" crc="288840139" seo="true" mt="1505655188528" redirect="true"/>
+  <file name="portfolio-p3.html" crc="194349896" seo="true" mt="1505714339584" redirect="true"/>
   <file name="portfolio-3-p1.html" crc="4107090278" seo="true" mt="1505656367099" redirect="true"/>
   <file name="portfolio-4-p1.html" crc="3929823089" seo="true" mt="1505656377306" redirect="true"/>
   <file name="portfolio-7-p1.html" crc="3898356423" seo="true" mt="1505656406714" redirect="true"/>
-  <file name="portfolio-8-p1.html" crc="17720009" seo="true" mt="1505656306724" redirect="true"/>
+  <file name="portfolio-8-p1.html" crc="4116276965" seo="true" mt="1505713680391" redirect="true"/>
   <file name="portfolio-1-p2.html" crc="250777957" seo="true" mt="1505656436450" redirect="true"/>
   <file name="portfolio-9-p1.html" crc="4080611509" seo="true" mt="1505656297020" redirect="true"/>
   <file name="portfolio-5-p1.html" crc="4031600632" seo="true" mt="1505656386819" redirect="true"/>
@@ -168,17 +168,17 @@
   <file name="portfolio-7-p2.html" crc="44099394" seo="true" mt="1505656493488" redirect="true"/>
   <file name="portfolio-8-p2.html" crc="151999810" seo="true" mt="1505656505055" redirect="true"/>
   <file name="portfolio-9-p2.html" crc="293959048" seo="true" mt="1505656515687" redirect="true"/>
-  <file name="portfolio-1-p3.html" crc="4032572261" seo="true" mt="1505656267534" redirect="true"/>
-  <file name="portfolio-2-p3.html" crc="4262746591" seo="true" mt="1505656247925" redirect="true"/>
-  <file name="portfolio-3-p3.html" crc="4162446613" seo="true" mt="1505656234326" redirect="true"/>
+  <file name="portfolio-1-p3.html" crc="4197447865" seo="true" mt="1505714360484" redirect="true"/>
+  <file name="portfolio-2-p3.html" crc="57818831" seo="true" mt="1505713679943" redirect="true"/>
+  <file name="portfolio-3-p3.html" crc="3840720767" seo="true" mt="1505713680092" redirect="true"/>
   <file name="portfolio-4-p3.html" crc="4029734924" seo="true" mt="1505656214899" redirect="true"/>
   <file name="portfolio-5-p3.html" crc="77691630" seo="true" mt="1505656198575" redirect="true"/>
   <file name="portfolio-6-p3.html" crc="3851692150" seo="true" mt="1505656181776" redirect="true"/>
   <file name="portfolio-7-p3.html" crc="397499266" seo="true" mt="1505656164696" redirect="true"/>
   <file name="portfolio-9-p3.html" crc="293628861" seo="true" mt="1505656121009" redirect="true"/>
   <file name="portfolio-8-p3.html" crc="497502203" seo="true" mt="1505656143297" redirect="true"/>
-  <file name="portfolio-10-p3.html" crc="35510228" seo="true" mt="1505656094690" redirect="true"/>
+  <file name="portfolio-10-p3.html" crc="4097455491" seo="true" mt="1505713679758" redirect="true"/>
   <file name="portfolio-10-p2.html" crc="3807271" seo="true" mt="1505656523270" redirect="true"/>
   <file name="portfolio-10-p1.html" crc="4044306651" seo="true" mt="1505656286786" redirect="true"/>
-  <file name="contact.html" crc="409208806" seo="true" mt="1505655188528" redirect="true"/>
+  <file name="contact.html" crc="123637371" seo="true" mt="1505714036102" redirect="true"/>
 </manifest>
